@@ -145,6 +145,7 @@ input[type=submit]{
   color: white;
   background-color: #AA3A39;
   width: 30%;
+  padding: 5px;
   padding-left: 10px;
   margin-left: 500px;
 }
