@@ -141,8 +141,10 @@ input[type=submit]{
  }
 
 #nom{
-  margin: 5px;
+  margin: 20px;
   color: white;
   background-color: #AA3A39;
   width: 30%;
+  padding-left: 10px;
+  margin-left: 500px;
 }
